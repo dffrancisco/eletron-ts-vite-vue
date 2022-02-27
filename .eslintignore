@@ -1,0 +1,10 @@
+# Ignore artifacts:
+build
+dist
+dist_electron
+node_modules
+public
+
+README.md
+CHANGELOG.md
+components.d.ts
